@@ -536,7 +536,7 @@ Footer
 ===============
 */
 .footer {
-  background: var(--clr-grey-1);
+  background: var(--clr-primary-6);
   text-align: center;
   padding-left: 2rem;
   padding-right: 2rem;
